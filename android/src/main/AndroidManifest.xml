@@ -1,0 +1,9 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.mobilepay_flutter_stripe">
+
+    <application
+        android:name=".MyApp"
+        android:label="mobilepay_flutter_stripe"
+        android:icon="@mipmap/ic_launcher">
+    </application>
+</manifest>
